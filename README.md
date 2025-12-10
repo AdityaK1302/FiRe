@@ -19,7 +19,6 @@ The agent uses **Human-in-the-Loop (HITL)** for company selection, ensuring accu
 ✅ **Intelligent Company Resolution** - Fuzzy matching with LLM-powered validation  
 ✅ **Multi-Source Data Collection** - SEC filings, web research, news, and sentiment  
 ✅ **Parallel Execution** - Optimized workflow with concurrent node processing  
-✅ **Persistent State** - SQLite checkpointing for reliability  
 ✅ **Interactive UI** - Real-time progress tracking and report generation  
 ✅ **PDF Export** - Download comprehensive reports in PDF format  
 
